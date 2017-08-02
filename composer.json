@@ -1,5 +1,5 @@
 {
-    "name": "spitcat/Elastica",
+    "name": "spitcat/elastica",
     "description": "Elasticsearch Client",
     "keywords": ["search","client"],
     "homepage": "http://bonami.cz/",
