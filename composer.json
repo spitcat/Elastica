@@ -1,8 +1,8 @@
 {
-    "name": "ruflin/elastica",
+    "name": "spitcat/Elastica",
     "description": "Elasticsearch Client",
     "keywords": ["search","client"],
-    "homepage": "http://elastica.io/",
+    "homepage": "http://bonami.cz/",
     "type": "library",
     "license": "MIT",
     "authors": [
